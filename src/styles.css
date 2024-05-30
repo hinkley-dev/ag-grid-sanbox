@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+/* Correct paths assuming node_modules at the root of your project */
+@import "~ag-grid-community/styles/ag-grid.css";
+@import "~ag-grid-community/styles/ag-theme-alpine.css";
+
